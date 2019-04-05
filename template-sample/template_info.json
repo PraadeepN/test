@@ -1,5 +1,5 @@
 {
-  "name": "Nginx Server",
+  "name": "template-sample",
   "type": "terraform",
   "app": "nginx",
   "target_cloud": "aws",
